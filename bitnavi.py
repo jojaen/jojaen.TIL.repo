@@ -1,8 +1,8 @@
 	#참고:https://velog.io/@kxxmz312/Telegram-bot-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-with-%ED%8C%8C%EC%9D%B4%EC%8D%AC
     
     #텔레그램 봇 설정
-    #bot_token = "6569179464:AAFro2htuwUwslsDGbGfzgd5Zxcpy1jGBUE"  # 본인의 봇 토큰으로 변경
-    #chat_id = "6934538765"  # 본인의 채팅 ID로 변경, 1:1 채팅일 때는 해당 id를 사용하지만 단톡일 때는 id가 달라 변경해야 한다.
+    #bot_token = ""  # 본인의 봇 토큰으로 변경
+    #chat_id = ""  # 본인의 채팅 ID로 변경, 1:1 채팅일 때는 해당 id를 사용하지만 단톡일 때는 id가 달라 변경해야 한다.
 
     #코인니스에서 요소를 찾아봐도 먹히지 않아 https://www.tokenpost.kr/search?v=gmt 사이트가 코인니스와 실시간으로 연동이 되어 해당 사이트의 요소를 사용하니 구현 성공함.
     
